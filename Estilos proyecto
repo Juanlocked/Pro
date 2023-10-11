@@ -1,0 +1,6 @@
+/* estilos principales de la pagina*/
+body{
+    color: #000000;
+    font-size: 32px;
+}
+
