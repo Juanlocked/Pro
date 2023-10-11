@@ -1,0 +1,61 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Untitle Document</title>
+    <link href="estilos.css" rel="stylesheet"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="jscrip.js" type="text/javascript"></script>
+</head>
+<body onload="saluda()">
+    <!-- este es mi primer ejemplo con HTML -->
+    
+    <header>
+        <nav></nav>
+    </header>
+    
+    <aside>
+        <nav></nav>
+    </aside>
+    
+    <section>
+        <h1>Este proyecto es inicial</h1>
+        <article>
+        <strong>Hola mundo!!</strong>
+        </article>
+        <h2>Podemos seguir practicando</h2>
+        <article>
+            <p style="border-bottom:1px solid;padding-bottom:20px">
+            Anim et possumus, se quid quae noster commodo, commodo lorem non tempor 
+            comprehenderit, ejemplo de negrita probant elit incurreret ab lorem ingeniis do occaecat se nisi 
+                pariatur praesentibus, fore admodum et philosophari, admodum eram quamquam. 
+            Dolore excepteur ea appellat. Appellat lorem do doctrina philosophari. Te sunt <br />
+            tamen amet occaecat ea quem domesticarum iudicem nulla possumus, <br />et tamen an 
+            amet an aut esse veniam iis admodum, eu quorum duis ex probant et occaecat do 
+            noster incididunt, in aliqua malis in laborum, a magna irure qui cernantur. Sunt 
+            </p>
+            <hr width="30%" aling="center" size="6px">
+            arbitror et occaecat, o illum noster sed nescius est incididunt quo culpa, ita 
+            <h3>textos especiales</h3>
+            duis veniam an aliquip ut ea veniam sunt non appellat iis legam nostrud ullamco 
+            quo varias ne possumus est nisi do ullamco labore iis nescius comprehenderit. O 
+            mentitum cohaerescant qui nam doctrina imitarentur, eu duis mentitum 
+            comprehenderit de et se veniam malis velit, laborum quem tempor consequat, 
+            doctrina minim ad pariatur arbitrantur et incididunt nisi quem et magna ab 
+            fabulas in ipsum deserunt. Occaecat do dolore iudicem.
+        </article>
+        <article>
+        <h3> Textos especiales</h3>
+            Textos con palabras esteticamente <b>importantes</b> <br />
+            Textos con palabras <i> cursivas</i> <br />
+            Textos con <u>underline</u>
+            
+        </article>
+     <script type="text/javascript">
+        
+    </script>
+    </section>
+
+    
+</body>
+</html>
